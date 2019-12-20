@@ -1,1 +1,7 @@
-# COURSERA-CAPSTON
+# Coursera-Capstone
+This notebook will be used for Coursera-Capstone Project
+# 2. Import the pandas library as pd
+import pandas as pd
+# 3. import the numpy library as np
+import nupy as np
+# Hello Capstone Project Course!
